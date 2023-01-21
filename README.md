@@ -1,2 +1,3 @@
 # kasper
- kasper template
+ kasper template the second challenge with elzero 
+ Technologies used Html, CSS and JS
